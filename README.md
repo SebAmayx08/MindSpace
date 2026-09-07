@@ -14,5 +14,5 @@ Plataforma web desarrollada en Laravel para ofrecer herramientas de autorregulac
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITTORIO>
+   git clone <https://github.com/SebAmayx08/MindSpace>
    cd resysigue
